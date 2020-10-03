@@ -1,6 +1,6 @@
 # RETASTOBERFEST 2020 (HACKTOBERFEST 2020)
 
-Kontribusi sesuatu di sini, kita buat web sederhana untuk mengenalkan hacktoberfest. Kita buat web sederhana biar nggak dianggep spam.
+Kontribusi sesuatu di sini, kita buat web sederhana untuk mengenalkan hacktoberfest.
 
 ## Cara Kontribusi
 
