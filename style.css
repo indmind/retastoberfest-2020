@@ -36,4 +36,7 @@ li a {
   background-color: transparent;
   text-decoration: none;
   color: #93c2db;
+  font-family: "Inter Black", "Helvetica", "Arial", san-serif;
+  font-weight: bold;
+  font-size: 14px;
 }
