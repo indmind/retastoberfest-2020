@@ -26,10 +26,17 @@ ul {
 
 li {
   float: left;
+  text-transform: uppercase;
+  color: #93c2db;
 }
 
 li a {
   display: block;
   padding: 8px;
-  background-color: black;
+  background-color: transparent;
+  text-decoration: none;
+  color: #93c2db;
+  font-family: "Inter Black", "Helvetica", "Arial", san-serif;
+  font-weight: bold;
+  font-size: 14px;
 }
