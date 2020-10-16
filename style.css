@@ -25,6 +25,9 @@ body {
 #logo{  
   max-width: 109px;
 }
+#line{
+  border-bottom-width: 1px;
+}
 
 ul {
   list-style-type: none;
